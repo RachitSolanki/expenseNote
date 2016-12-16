@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currency">
+        <item>RUB</item>
+        <item>؋</item>
+        <item>€</item>
+        <item>L</item>
+        <item>£</item>
+        <item>د.ج</item>
+        <item>Kz</item>
+        <item>$</item>
+        <item>ƒ</item>
+        <item>৳</item>
+        <item>Br</item>
+        <item>Nu.</item>
+        <item>Rs.</item>
+        <item>лв</item>
+        <item>₡</item>
+        <item>Kč</item>
+        <item>¥</item>
+        <item>₩</item>
+       </string-array>
+</resources>

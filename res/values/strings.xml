@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Expense Note Litee</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+      <string name="me">Me</string>
+    <string name="whopay">Who Pay</string>
+    <string name="whompay">Whom Pay</string>
+    <string name="amount">Amount Paid</string>
+    <string name="extranote">extra note</string>  
+    <string name="chooseone">Please Select One Mode For Ease</string>  
+    <string name="whythis">Why This Mode?\nMode For Ease and convinence to write and Quick save\nYou can cange this setting anytime from settings menu.</string>  
+    <string name="righty">I am Right Handed</string>  
+    <string name="lefty">I am Left Handed</string>  
+     <string name="settings">Settings</string>  
+    <string name="graph">By Graph</string> 
+    <string name="viewdetails">Record</string> 
+    <string name="gopro">Go Pro</string> 
+    <string name="csv">Save as CSV</string>
+    <string name="pdf">Save as pdf</string>
+    <string name="report">Complete Report</string>
+    <string name="whatcsv">Comma separated values to open it in by any sheet document software</string>
+    <string name="whatpdf">portable document file to open it in by any pdf software</string>
+    <string name="filteron">Filter On</string>
+    <string name="filteroff">Filter Off</string>
+    <string name="ease">Ease Mode</string>
+ 	<string name="left">Left Mode</string>
+ 	<string name="right">Right Mode</string>
+ 	<string name="crry">Currency</string>
+ 	<string name="expenselimit">Expense Limit</string>
+ 	<string name="save">Save</string>
+ 		<string name="edit">Edit</string>
+ 	<string name="setlimit">Set Expense Limit</string>
+ 	    <string name="banner_ad_unit_id">ca-app-pub-2120909060215365/5166828333</string>
+</resources>
